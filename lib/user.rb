@@ -1,6 +1,7 @@
 class User
-  attr_accessor
-  attr_reader
+  attr_accessor :first_name
+  attr_reader :last_name
  
- 
+ def 
+ end 
  end 
